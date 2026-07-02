@@ -1,0 +1,24 @@
+# Unity generated files inside game/
+game/[Ll]ibrary/
+game/[Tt]emp/
+game/[Oo]bj/
+game/[Bb]uild/
+game/[Bb]uilds/
+game/[Ll]ogs/
+game/[Uu]ser[Ss]ettings/
+game/[Mm]emoryCaptures/
+
+# IDE
+.vs/
+.idea/
+
+# Common generated files
+*.csproj
+*.sln
+*.user
+*.tmp
+*.log
+
+# Optional build outputs
+builds/*
+!builds/.gitkeep
